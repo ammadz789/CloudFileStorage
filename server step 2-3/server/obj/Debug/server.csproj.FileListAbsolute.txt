@@ -1,0 +1,29 @@
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\bin\Debug\server.exe.config
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\bin\Debug\server.exe
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\bin\Debug\server.pdb
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.csprojAssemblyReference.cache
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.Form1.resources
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.Properties.Resources.resources
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.exe
+D:\Fall-2020-part-time\cs408\project\submitted\server\server\obj\Debug\server.pdb
+C:\Users\yunus\Desktop\cs408 proj final\server\server\bin\Debug\server.exe.config
+C:\Users\yunus\Desktop\cs408 proj final\server\server\bin\Debug\server.exe
+C:\Users\yunus\Desktop\cs408 proj final\server\server\bin\Debug\server.pdb
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.Form1.resources
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.exe
+C:\Users\yunus\Desktop\cs408 proj final\server\server\obj\Debug\server.pdb
+C:\Users\Ammad\Desktop\proj\server\server\bin\Debug\server.exe.config
+C:\Users\Ammad\Desktop\proj\server\server\obj\Debug\server.exe
+C:\Users\Ammad\Desktop\proj\server\server\obj\Debug\server.pdb
+C:\Users\Ammad\Desktop\proj\server\server\bin\Debug\server.exe
+C:\Users\Ammad\Desktop\proj\server\server\bin\Debug\server.pdb
+C:\Users\Ammad\Desktop\proj\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Ammad\Desktop\proj\server\server\obj\Debug\server.Form1.resources
+C:\Users\Ammad\Desktop\proj\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Ammad\Desktop\proj\server\server\obj\Debug\server.csproj.GenerateResource.Cache
